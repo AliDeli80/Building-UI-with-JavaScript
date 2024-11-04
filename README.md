@@ -14,7 +14,7 @@ This repository showcases a simple project to demonstrate the fundamentals of bu
 ### Clone the Repository:
 
   ```sh
-  git clone https://github.com/AliDeli80/Building-UI-with-JavaScript/.git
+  git clone https://github.com/AliDeli80/Building-UI-with-JavaScript.git
   ```
 
 ## Contributing
