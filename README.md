@@ -7,7 +7,7 @@ Building UI with JavaScript
 ## Description
 
 This repository showcases a simple project to demonstrate the fundamentals of building user interfaces with Modular JavaScript.
-You have to run this project with a local server becuse it's using ES6 modules.
+(You have to run this project with a local server becuse it's using ES6 modules.)
 
 ## Getting Started
 
