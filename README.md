@@ -10,7 +10,7 @@ This repository showcases a simple project to demonstrate the fundamentals of bu
 
 ## Preview
 
-https://htmlpreview.github.io/?Building-UI-with-JavaScript/blob/master/index.html
+https://htmlpreview.github.io/?[Building-UI-with-JavaScript/blob/master/index.html](https://github.com/AliDeli80/Building-UI-with-JavaScript/blob/master/index.html)
 
 ## Getting Started
 
